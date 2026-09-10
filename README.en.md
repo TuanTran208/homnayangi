@@ -1,4 +1,4 @@
-# Trưa Nay Ăn Gì 🍜
+# Hôm Nay Ăn Gì 🍜
 
 [Tiếng Việt](README.md) · **English**
 
